@@ -7,22 +7,6 @@ Get current weather information for any city
 Find tourist attractions, restaurants, cafes, and parks
 Real-time data from public APIs
 
-Installation
-bashnpm install
-npm run build
-Configuration
-Add to your Claude Desktop config file:
-MacOS: ~/Library/Application Support/Claude/claude_desktop_config.json
-Windows: %APPDATA%\Claude\claude_desktop_config.json
-json{
-  "mcpServers": {
-    "weather-places": {
-      "command": "node",
-      "args": ["/absolute/path/to/your/project/build/main.js"]
-    }
-  }
-}
-Restart Claude Desktop.
 Tools
 fetch-weather
 Gets weather data for a city including temperature, humidity, precipitation, and wind speed.
