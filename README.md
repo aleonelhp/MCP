@@ -1,10 +1,10 @@
-# MCP
+\n# MCP
 A simple MCP to fetch the weather information, tourist attractions and points of interest in a city.
 
 Features
 
 Get current weather information for any city
-Find tourist attractions, restaurants, cafes, and parks
+\nFind tourist attractions, restaurants, cafes, and parks
 Real-time data from public APIs
 
 Installation
